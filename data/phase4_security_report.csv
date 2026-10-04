@@ -1,0 +1,4 @@
+Metric,Value,Target
+False Rejection Rate (FRR),2.00%,< 5.0%
+False Acceptance Rate (FAR),0.00%,< 0.01%
+Entropy (bits/byte),6.7670,~8.0
